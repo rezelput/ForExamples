@@ -1,2 +1,2 @@
-# ForExamples_Provider_MobileDevelop
+# МП для провайдера интернет услуг (К Р)
  
