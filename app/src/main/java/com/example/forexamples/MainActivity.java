@@ -24,4 +24,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, PersonalPageActivity.class);
         startActivity(intent);
     }
+
+    public void toPhonePage(View v){
+        Intent intent = new Intent(this, PhoneActivity.class);
+        startActivity(intent);
+    }
+
 }
